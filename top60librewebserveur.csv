@@ -1,0 +1,60 @@
+www.framablog.org;Apache/2.2.16 (Unix) mod_ssl/2.2.16 OpenSSL/0.9.8o;PHP/5.2.13-pl0-gentoo;
+www.tux-planet.fr;Apache;PHP/5.3.8;
+www.toolinux.com;Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny13 with Suhosin-Patch mod_python/3.3.1 Python/2.5.2 mod_ssl/2.2.9 OpenSSL/0.9.8g;PHP/5.2.6-1+lenny13;
+www.clapico.com;Apache/2.2.X (OVH);PHP/5.4.4;
+blog.nicolargo.com;;;1.1 varnish
+philippe.scoffoni.net;Apache;;
+www.le-libriste.fr;Apache;;
+frederic.bezies.free.fr;Apache/ProXad [Apr 20 2012 15:06:05];;
+www.crowd42.info;Apache;PHP/5.3.3-7+squeeze13;
+blog.mandriva.com;Apache;PHP/5.3.3-7+squeeze13;
+colibri-libre.org;Apache;PHP/5.2.17;
+www.taltan.fr;Apache;PHP/5.2.17;
+frugalware.org;Apache;;
+blog.rom1v.com;Apache;PHP/5.3.5-1ubuntu7.10;
+www.zdnet.fr;Apache;;
+geekdefrance.fr;Apache;PHP/5.2.17;
+www.ubuntu-party.org;nginx/0.8.54;PHP/5.3.5-1ubuntu7;
+www.llaumgui.com;Apache;PHP/5.3.14;
+tic-et-net.org;cloudflare-nginx;;
+www.zdnet.fr;Apache;;
+blog.mageekbox.net;Apache;;
+blog.itnservice.net;Apache/2.2.11 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch proxy_html/3.0.0 mod_ssl/2.2.11 OpenSSL/0.9.8o;PHP/5.2.6-1+lenny9;1.1 varnish
+j-mad.com;Apache/2.2;;
+raphaelhertzog.fr;nginx/1.2.1;;
+artisan.karma-lab.net;Apache/2.2.16 (Debian);PHP/5.3.3-7+squeeze8;
+www.esiteweb.net;Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4;PHP/5.2.16;
+www.nolifeclub.org;;;
+linux.leunen.com;Apache;;
+blog.admin-linux.org;Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.14 with Suhosin-Patch;W3 Total Cache/0.9.2.4;1.1 varnish
+thecodersbreakfast.net;Apache;;
+www.kenshin-blog.com;Apache;PHP/5.3.12;
+andre-ani.fr;Apache;PHP/5.2.17;
+www.monitoring-fr.org;nginx/1.1.19;W3 Total Cache/0.9.2.4;
+www.throrinstudio.com;Apache/2.2.9;;
+sciunto.wordpress.com;nginx;;
+www.codesscripts.fr;;;
+blog.rodolphe.quiedeville.org;Apache/2.2.16 (Debian);PHP/5.3.3-7+squeeze7;
+experiencelinuxienne.blogspot.com;GSE;;
+yeknan.free.fr;Apache/ProXad [Aug  9 2008 02:45:09];;
+coffeebean.loicdescotte.com;GSE;;
+www.industrialisation-php.com;Apache/2.2.14 (Ubuntu);PHP/5.3.9-ZS5.6.0 ZendServer/5.0;
+www.k1ka.be;Apache/2.2.X (OVH);;
+hackurx.wordpress.com;nginx;;
+www.lolokai.com;Apache;W3 Total Cache/0.9.2.4;
+lapt.blogspot.com;GSE;;
+dotclear.jcdenis.com;Apache/2.2.X (OVH);PHP/5.2.17;
+www.dom-web.net;Apache;PHP/5.2.17;
+linuxcloud.fr;Apache/2.2.16 (Debian);PHP/5.3.3-7+squeeze13;1.1 cloudlinux.eu
+net-progress.blogspot.com;GSE;;
+blog.hikoweb.net;Apache;;
+www.footcow.com;Apache/2.2.16 (Debian);;
+www.loutre.ch;Apache/2.2;;
+uselinux.over-blog.fr;Apache;PHP/5.2.6;1.1 varnish
+ubuntuauquotidien.wordpress.com;nginx;;
+www.k-tux.com;Apache/2.2.16 (Debian);;
+ernstfamily.ch;Apache;;
+www.liteweb.fr;Apache/2.2.20 (Ubuntu) mod_jk/1.2.32 PHP/5.3.6-13ubuntu3.8 with Suhosin-Patch;PHP/5.3.6-13ubuntu3.8;
+linuxbidouille.com;nginx;;
+pascollibre.wordpress.com;nginx;;
+www.gazouillis-songbird.info;Apache;PHP/5.2.17;
