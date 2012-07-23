@@ -1,0 +1,37 @@
+=====
+Stats
+=====
+
+     55 
+      1 ALIENOR.NET 
+      4 alwaysdata hosting 
+      1 AXC Infrastructure UK 
+      1 BSNAN158 Nantes Bloc 2 
+      1 CloudFlare, Inc. 
+      1 Croydon Residential Dynamic 
+     34 Dedibox SAS 
+      1 Dedicated Server Hosting 
+      1 Dynamic pools 
+      1 Evolix infrastructure in Marseilles 
+      1 Free SAS 
+     19 Free SAS (ProXad) 
+      1 GANDI DEDICATED-HOSTING FR3 
+      1 GANDI DEDICATED-HOSTING-NET4 
+      5 GANDI DEDICATED HOSTING SERVERS 
+      4 GANDI FRANCE L/B SERVICES 
+      1 GEEKNODE VSERVERS 
+      7 Ielo Assignation to Customer 
+      4 Ikoula Hosting 
+      1 Ikoula Net SAS 
+      1 INDUSTRIE 
+      1 ISP4P IT Services 
+      2 Lautre Net Hosting Service 
+      1 LINAGORA SA 
+      1 Linode, LLC 
+      2 NC Numericable S.A. 
+      2 NUXIT s.a.r.l. 
+      2 OVH BE 
+     74 OVH SAS 
+      1 PHPNET FRANCE SARL 
+      1 Planet-Service 
+
